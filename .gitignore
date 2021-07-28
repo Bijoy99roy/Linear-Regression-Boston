@@ -55,6 +55,9 @@ coverage.xml
 *.mo
 *.pot
 
+#File stuff
+*.csv
+*.txt
 # Django stuff:
 *.log
 local_settings.py
@@ -127,3 +130,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#some cache
+.idea

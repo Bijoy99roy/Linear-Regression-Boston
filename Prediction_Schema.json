@@ -1,0 +1,19 @@
+{
+  "columnNumber":13,
+  "columnNames": {
+    "CRIM" : "Integer",
+    "ZN" : "Integer",
+    "INDUS" : "Integer",
+    "CHAS" : "Integer",
+    "NOX" : "Integer",
+    "RM" : "Integer",
+    "AGE" : "Integer",
+    "DIS" : "Integer",
+    "RAD" : "Integer",
+    "TAX" : "Integer",
+    "PTRATIO" : "Integer",
+    "B" : "Integer",
+    "LSTAT" :"Integer"
+  },
+  "requiredColumns": ["INDUS", "NOX","RM","AGE","DIS","PTRATIO","LSTAT"]
+}
