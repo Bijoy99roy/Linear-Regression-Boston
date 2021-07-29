@@ -1,6 +1,7 @@
 from application_logging.logger import App_Logger
 import json
 import os
+import shutil
 import pandas as pd
 
 class PredictionDataValidation:
@@ -9,6 +10,16 @@ class PredictionDataValidation:
         self.logger = App_Logger()
         self.schema = 'Prediction_Schema.json'
 
+    def deletePredictionFiles(self):
+        try:
+            shutil.rmtree('Prediction_Files/')
+        except Exception as e:
+            pass
+    def createPredictionFiles(self):
+        try:
+            os.mkdir('Prediction_Files/')
+        except Exception as e:
+            pass
     def getSchemaValues(self):
 
         try:

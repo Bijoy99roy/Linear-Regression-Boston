@@ -1,6 +1,6 @@
 import os
 from application_logging.logger import App_Logger
-from prediction_data_validation.production_data_validation import PredictionDataValidation
+from prediction_data_validation.prediction_data_validation import PredictionDataValidation
 
 class PredictionValidation:
     def __init__(self, path):
