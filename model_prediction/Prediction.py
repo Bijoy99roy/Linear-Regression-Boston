@@ -8,10 +8,10 @@ import os
 
 
 class Prediction:
-    def __init__(self, path):
+    def __init__(self):
         self.logger = App_Logger()
         self.file_object = open("Prediction_Log/Prediction_Log.txt", 'a+')
-        self.pred_data_val = PredictionDataValidation(path)
+        self.pred_data_val = PredictionDataValidation()
 
     def predict(self):
 

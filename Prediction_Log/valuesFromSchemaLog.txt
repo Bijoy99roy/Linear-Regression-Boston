@@ -1,0 +1,124 @@
+2021-07-29/20:49:26		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:49:26		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:51:53		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:51:53		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:56:50		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:56:50		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:57:51		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/20:57:51		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:03:20		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:03:20		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:06:53		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:06:53		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:09:35		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-29/21:09:36		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/11:33:33		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/11:33:34		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/11:53:35		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/11:53:35		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/12:28:50		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/12:28:50		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:00:45		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:00:45		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:02:13		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:02:13		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:04:39		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:04:39		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:06:41		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:06:41		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:10:20		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:10:21		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:25:19		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:25:19		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:29:07		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:29:21		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:31:11		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:31:11		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:33:32		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:34:34		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:34:34		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:34:44		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:36:27		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:36:27		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:37:25		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:37:25		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:40:09		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:40:09		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:42:36		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/13:42:36		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/14:58:04		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:03:52		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:20:44		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:20:44		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:23:03		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:23:03		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:23:46		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:24:04		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:24:20		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:24:20		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:27:49		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:27:49		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:29:45		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/15:29:45		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+

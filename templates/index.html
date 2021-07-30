@@ -1,13 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-    <form action="/uploader" method="POST" enctype="multipart/form-data">
-        <input type="file" name="file">
-        <input type="submit" value="Upload">
-    </form>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+
+    {% if not is_uploaded %}
+        <form action="/uploader" method="POST" enctype="multipart/form-data">
+<!--            <input type="file" name="file">-->
+<!--            <input type="submit" value="Upload">-->
+            <div class="custom-file">
+                <input type="file" class="custom-file-input" name="file" id="customFileInput" onchange="fileName()" required>
+
+                <label class="custom-file-label" >Choose file...</label>
+            </div>
+
+                <input class="btn btn-primary mt-2" type="submit" value="Upload">
+        </form>
+    {% endif %}
+            {% if is_uploaded %}
+                <a href="/predict"><button class="btn btn-primary" onclick="Loading()" id="predict">Predict</button></a>
+            {% endif %}
+            <h3 class="text-danger" id="loadtext"></h3>
+{% endblock content %}

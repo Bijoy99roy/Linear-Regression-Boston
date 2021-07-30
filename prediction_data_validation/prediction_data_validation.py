@@ -5,21 +5,35 @@ import shutil
 import pandas as pd
 
 class PredictionDataValidation:
-    def __init__(self, file_path):
-        self.path = file_path
+    def __init__(self):
         self.logger = App_Logger()
         self.schema = 'Prediction_Schema.json'
 
     def deletePredictionFiles(self):
+        file = open("Prediction_Log/fileHandling.txt", 'a+')
         try:
+            self.logger.log(file, 'Entered deletePredictionFiles method of PredictionDataValidation class')
             shutil.rmtree('Prediction_Files/')
+            self.logger.log(file, 'Prediction_Files deleted.')
         except Exception as e:
-            pass
-    def createPredictionFiles(self):
+            self.logger.log(file, 'Error occured in deleting folder in deletePredictionFiles method of PredictionDataValidation class. Message: '+str(e))
+            self.logger.log(file,
+                            'Failed to delete folder.')
+            file.close()
+        file.close()
+    def createPredictionFiles(self, folderName):
+        file = open("Prediction_Log/fileHandling.txt", 'a+')
         try:
-            os.mkdir('Prediction_Files/')
+            self.logger.log(file, 'Entered deletePredictionFiles method of PredictionDataValidation class')
+
+            os.mkdir(f'{folderName}/')
+            self.logger.log(file, 'Prediction_Files created.')
         except Exception as e:
-            pass
+            self.logger.log(file,
+                            'Error occured in creating folder in createPredictionFiles method of PredictionDataValidation class. Message: ' + str(
+                                e))
+            self.logger.log(file,
+                            'Failed to create folder.')
     def getSchemaValues(self):
 
         try:

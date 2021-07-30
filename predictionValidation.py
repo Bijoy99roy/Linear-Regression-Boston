@@ -3,9 +3,8 @@ from application_logging.logger import App_Logger
 from prediction_data_validation.prediction_data_validation import PredictionDataValidation
 
 class PredictionValidation:
-    def __init__(self, path):
-        self.file = path
-        self.raw_data = PredictionDataValidation(path)
+    def __init__(self):
+        self.raw_data = PredictionDataValidation()
         self.logger = App_Logger()
 
     def validation(self):
@@ -22,6 +21,7 @@ class PredictionValidation:
 
 
         except Exception as e:
-            print(e)
+            f.close()
+            raise e
         f.close()
 
