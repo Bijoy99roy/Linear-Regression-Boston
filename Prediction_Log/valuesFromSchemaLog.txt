@@ -1,0 +1,8 @@
+2021-07-30/16:05:15		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/16:05:15		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/16:06:59		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+
+2021-07-30/16:06:59		ColumnNumber: 13	RequiredColumns: ['INDUS', 'NOX', 'RM', 'AGE', 'DIS', 'PTRATIO', 'LSTAT']
+

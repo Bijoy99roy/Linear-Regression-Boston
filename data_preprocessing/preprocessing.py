@@ -20,11 +20,11 @@ class PreProcessing:
             self.missing_value_count = [data[i].isnull().sum() for i in self.cols_with_missing_values]
             if len(self.cols_with_missing_values) > 0:
                 self.has_null = True
-                self.dataframe_with_null = pd.DataFrame()
-                self.dataframe_with_null['Columns'] = self.cols_with_missing_values
-                self.dataframe_with_null['Missing value count'] = self.missing_value_count
-                self.dataframe_with_null.to_csv('preprocessing_data/null_values.csv')
-                self.logger.log(self.file_object, 'Found missing values. Data saved in null.value.csv.Exiting isNummPresent method of PreProcessor class')
+                # self.dataframe_with_null = pd.DataFrame()
+                # self.dataframe_with_null['Columns'] = self.cols_with_missing_values
+                # self.dataframe_with_null['Missing value count'] = self.missing_value_count
+                # self.dataframe_with_null.to_csv('preprocessing_data/null_values.csv')
+                self.logger.log(self.file_object, 'Found missing values. Exiting isNummPresent method of PreProcessor class')
             else:
                 self.logger.log(self.file_object, 'No missing value found. Exiting isNummPresent method of PreProcessor class')
             return self.has_null, self.cols_with_missing_values

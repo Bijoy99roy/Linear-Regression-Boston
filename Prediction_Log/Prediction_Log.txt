@@ -1,0 +1,25 @@
+2021-07-30/16:05:15		Validation started for Prediction Data
+2021-07-30/16:05:15		Starting columns length validation
+2021-07-30/16:05:15		Columns length validation complete!!
+2021-07-30/16:05:15		Start of Prediction
+2021-07-30/16:05:15		Entered the isNullPresent method of PreProcessor class
+2021-07-30/16:05:15		Exception occured in isNullPresent method of the PreProcessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-07-30/16:05:15		Finding missing values failed. Exited the isNullPresent method of the PreProcessor class
+2021-07-30/16:05:15		Error occured while running the prediction!! Message: [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2021-07-30/16:06:59		Validation started for Prediction Data
+2021-07-30/16:06:59		Starting columns length validation
+2021-07-30/16:06:59		Columns length validation complete!!
+2021-07-30/16:06:59		Start of Prediction
+2021-07-30/16:06:59		Entered the isNullPresent method of PreProcessor class
+2021-07-30/16:06:59		Found missing values. Exiting isNummPresent method of PreProcessor class
+2021-07-30/16:06:59		Entered imputeMissingValues method of PreProcessing class
+2021-07-30/16:06:59		Entered the loadModel method of FileHandler class
+2021-07-30/16:06:59		 loaded. Exiting loadModel method of FileHandler class
+2021-07-30/16:06:59		Started imputing data.
+2021-07-30/16:06:59		Imputing data complete!!. Exiting imputeMissingValues method of PreProcessing class
+2021-07-30/16:06:59		Entered scaleFeature method of PreProcessing class
+2021-07-30/16:06:59		Scaling the data starting
+2021-07-30/16:06:59		Data Scaling complete!!. Exiting scaleFeatures method of PreProcessing class
+2021-07-30/16:06:59		Entered the loadModel method of FileHandler class
+2021-07-30/16:06:59		 loaded. Exiting loadModel method of FileHandler class
+2021-07-30/16:06:59		Predction complete!!. Prediction.csv saved in Prediction_File as output. Exiting Predict method of Prediction class 
