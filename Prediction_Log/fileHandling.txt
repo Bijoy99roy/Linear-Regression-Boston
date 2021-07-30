@@ -1,8 +1,0 @@
-2021-07-30/16:05:07		Entered deletePredictionFiles method of PredictionDataValidation class
-2021-07-30/16:05:07		Prediction_Files deleted.
-2021-07-30/16:05:07		Entered deletePredictionFiles method of PredictionDataValidation class
-2021-07-30/16:05:07		Prediction_Files created.
-2021-07-30/16:06:52		Entered deletePredictionFiles method of PredictionDataValidation class
-2021-07-30/16:06:52		Prediction_Files deleted.
-2021-07-30/16:06:52		Entered deletePredictionFiles method of PredictionDataValidation class
-2021-07-30/16:06:52		Prediction_Files created.
